@@ -1,12 +1,11 @@
-
 table(tr) ::= <<
-\<table\>
-    <tr, separator="\n">
-\</table\>
+<table>
+    <tr><tr>
+</table>
 >>
 
 row(field) ::= <<
-\<tr\>
-    <field, separator="\n">
-\</tr\>
+<tr>
+    <field>field</field>
+</tr>
 >>
