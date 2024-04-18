@@ -1,0 +1,12 @@
+
+table(tr) ::= <<
+\<table\>
+    <tr, separator="\n">
+\</table\>
+>>
+
+row(field) ::= <<
+\<tr\>
+    <field, separator="\n">
+\</tr\>
+>>

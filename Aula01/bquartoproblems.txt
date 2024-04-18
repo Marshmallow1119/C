@@ -1,0 +1,20 @@
+Ainda nem sequer fizemos login, já está a pedir se queremos fazer login com uma conta diferente					Severidade:0
+Para fazer criar uma conta de utilizador, os utilizadores são enviados para uma página onde as
+possibilidades não são descritas de forma explícita.										Severidade:1
+Para criar conta temos de publicar um anúncio se queremos arrendar ou arranjar casa						Severidade:2
+-deviam ser feitas duas opcoes posteriores á criacao da conta que deviam estar no menu 
+inicial 
+Para indicar a zona de pesquisa deve ser colocado uma barra de pesquisa que se autocompleta evitando a quantidade a
+absurda de botoes														Severidade:2
+Pode ter animais? opcoes indiferente ou n 											Severidade:1
+
+SOBRE MIM-Vive no(s) espaço(s) que tem para arrendar?										Severidade:2
+A pagina inicial deve ser apelativa. Mas não é apresenta varias opcoes repetitivas 
+como Principios/termos/ PPP
+- Um unico documento com tudo 													Severidade:4
+A pagina no final apresenta um milhao de opcoes de procuro ou tenho 
+Devia ser um formulario de escolha onde indico se procuro e onde e nao ter multiplas opces					Severidade:4
+Filtragem de pesquisa pessima	(opcoes de escolha pessimas)									Severidade:5
+Membros online Pessimo 														Severidade:3
+
+
